@@ -1,0 +1,58 @@
+# utility
+- `z` (zoxide): A smarter cd command that learns your frequently and recently used directories. [https://github.com/ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+    - `z <partial_directory_name>`
+    - `zi` (Interactive selection)
+- `fzf` (Fuzzy Finder): A command-line fuzzy finder for interactively filtering lists. [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
+    - `history | fzf` (Search command history)
+    - `ls | fzf` (Find a file in the current directory)
+- `exa`: A modern replacement for ls with more features like colors, tree view, Git integration, and icons. [https://github.com/ogham/exa](https://github.com/ogham/exa)
+    - `exa`
+    - `exa -l` (Long format)
+    - `exa -T` (Tree view)
+- `bat`: [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
+- `eza`: [https://github.com/eza-community/eza](https://github.com/eza-community/eza)
+- `ncdu`: Disk usage analyzer with an ncurses interface. It helps you see which directories and files are consuming the most space. [https://dev.yorhel.nl/ncdu/man](https://dev.yorhel.nl/ncdu/man)
+    - `ncdu` (Navigate with arrow keys, see sizes, delete files/directories)
+- `duf`: Disk Usage/Free utility. Provides a user-friendly, colorized overview of mounted filesystems and their usage. [https://github.com/muesli/duf](https://github.com/muesli/duf)
+    - `duf`
+- `rg` (ripgrep): A very fast, line-oriented search tool that recursively searches your current directory for a regex pattern. [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+    - `rg <pattern> [path]` (e.g., `rg "my_function"`, `rg "def "`, `rg "API key"`)
+- `fd`: A simple, fast, and user-friendly alternative to find. [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
+    - `fd <pattern>` (Searches recursively and case-insensitively by default)
+- `glances`: A cross-platform system monitoring tool displaying a large amount of system information. [https://nicolargo.github.io/glances/](https://nicolargo.github.io/glances/)
+    - `glances`
+- `iotop`: A top-like utility for displaying I/O usage by processes. [https://github.com/dgibson/iotop](https://www.google.com/search?q=https://github.com/dgibson/iotop)
+    - `sudo iotop`
+- `dstat`: A versatile replacement for vmstat, iostat, netstat, and ifstat for viewing system resources. [https://github.com/dstat-team/dstat](https://www.google.com/search?q=https://github.com/dstat-team/dstat)
+    - `dstat`
+    - `dstat -tcmsdn` (Time, cpu, memory, swap, disk, network)
+    - `dstat --top-cpu`
+- `progress`: Monitors the progress of coreutils basic commands like cp, mv, dd, tar, etc. [https://github.com/Xfennec/progress](https://github.com/Xfennec/progress)
+    - `progress` (Run in a separate terminal while another command is active)
+- `direnv`: [https://direnv.net/](https://direnv.net/)
+- kubectx and kubens: [https://github.com/ahmetb/kubectx](https://github.com/ahmetb/kubectx)
+- iperf3: [https://iperf.fr/](https://iperf.fr/)
+---
+# networking
+- `tcpdump`: [https://www.tcpdump.org/](https://www.tcpdump.org/)
+- `termshark`: A terminal user interface for tshark (Wireshark's command-line version) to analyze network traffic. [https://github.com/gcla/termshark](https://github.com/gcla/termshark)
+    - `sudo termshark`
+    - `sudo termshark -Y "dns"` (Filter for DNS traffic)
+- `dog`: A command-line DNS client, often user-friendly and feature-rich. [https://github.com/ogham/dog](https://github.com/ogham/dog)
+    - `dog <domain_name> [record_type]`
+- `ipcalc`: Performs IP subnet calculations. [https://github.com/border/ipcalc](https://www.google.com/search?q=https://github.com/border/ipcalc)
+    - `ipcalc <IP_address>[/CIDR_or_netmask]` (e.g., `ipcalc 10.7.8.94/18`)
+- `mtr` (My Traceroute): Network diagnostic tool combining ping and traceroute functionality, showing route and performance. [https://www.bitwizard.nl/mtr/](https://www.bitwizard.nl/mtr/)
+    - `mtr <hostname_or_IP>`
+---
+# misc
+- `jq`: [https://jqlang.github.io/jq/](https://jqlang.github.io/jq/)
+- cmatrix: [https://github.com/abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix])
+- `wormhole` (magic-wormhole): A tool to securely transfer files and directories between computers using a "wormhole code". [https://github.com/magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
+    - Sender: `wormhole send <filename>`
+    - Receiver: `wormhole receive <code>`
+- `mosh` (Mobile Shell): A remote terminal application for robust connections, supporting roaming and intermittent connectivity. [https://mosh.org](https://mosh.org/)
+    - `mosh [user@]hostname` (Requires Mosh on client and server)
+
+---
+hg

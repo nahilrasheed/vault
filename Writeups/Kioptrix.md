@@ -1,0 +1,4 @@
+- Identify kioptrix ip
+	- login using username: john & password: TwoCows2 , & ping to any ip find ip
+	- use   `arp-scan -l ` 
+	- use `netdiscover -r 192.168.50.0/24` (put the first 3 parts of your ip & .0/24)

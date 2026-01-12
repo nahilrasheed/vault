@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "translucency": false,
+  "nativeMenus": false,
+  "cssTheme": "Encore",
+  "theme": "system",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Lexend",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "dashboard-ReadLineLength",
+    "dashboard"
+  ],
+  "showViewHeader": true,
+  "showRibbon": false,
+  "baseFontSizeAction": true
+}

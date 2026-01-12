@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "f573715055e90df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eabff6954f8e2695",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f678a8c67ae9508",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6fd625183015672",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b87424d17f0ce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3858e04ee08f8a61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7b16e9099a32e3d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "`fall",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "219987532326016c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9019d896a3c9eac8",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "1d3366bd31c2451c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "3b79d50a0507e72f",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
+              "state": {},
+              "icon": "unlink",
+              "title": "Broken links"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "right": {
+    "id": "60a3885a63e18600",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd47723be76f2cc6",
+        "type": "tabs",
+        "dimension": 66.88931297709924,
+        "children": [
+          {
+            "id": "e62af45faa180c2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1bfeaa419a5658b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "582de49ca136c7ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8cbf8c5f30c02387",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eda891906da0a84e",
+        "type": "tabs",
+        "dimension": 33.11068702290076,
+        "children": [
+          {
+            "id": "65dd4f88c5820cfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Regex.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Regex"
+            }
+          },
+          {
+            "id": "06ce55c1f1da4b2d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.45971825916974074,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "fea90a17d9af2afa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "janitor:Janitor: scan vault": false,
+      "broken-links:View broken links": false
+    }
+  },
+  "active": "9019d896a3c9eac8",
+  "lastOpenFiles": [
+    "CyberSec/Vulns & Attacks/index.md",
+    "CyberSec/Vulns & Attacks/SQLi.md",
+    "Posts/2024-07-17-The-Ultimate-Jekyll-Blogging-Guide.md",
+    "CyberSec/Cryptography/Cryptography.md",
+    "CyberSec/System Security/OS basics.md",
+    "SQL.md",
+    "CyberSec/index.md",
+    "CyberSec/Offensive Security/OSINT.md",
+    "CyberSec/Resources.md",
+    "CyberSec/Offensive Security/Red Team.md",
+    "template.md",
+    "Python.md",
+    "Programming Languages.md",
+    "git.md",
+    "CyberSec/GRC/CISSP Domains.md",
+    "CyberSec/GRC/CIA Triad.md",
+    "CyberSec/Tools/Browser Exploitation Framework (BeEF).md",
+    "Writeups/THM/THM_W1seGuy.md",
+    "CyberSec/Defence and Response/Log Analysis.md",
+    "CyberSec/Vulns & Attacks/XXE.md",
+    "CyberSec/Web Security/CSP - Content Security Policy.md",
+    "CyberSec/Offensive Security/Post Exploitation Techniques.md",
+    "Writeups/Dev.md",
+    "CyberSec/System Security/Detection of cracking.md",
+    "Writeups/Butler.md",
+    "CyberSec/Tools/Veil.md",
+    "99-Meta/Projects.base",
+    "Writeups/THM/attachments/THM AOC25 Sidequest2-1765883626473.png",
+    "Writeups/THM/attachments/THM AOC25 Sidequest1-1765654805659.png",
+    "CyberSec/attachments/RITA-1766600448420.png",
+    "CyberSec/attachments/66c44fd9733427ea1181ad58-1761301302504.png",
+    "CyberSec/attachments/66c44fd9733427ea1181ad58-1761301233135.png",
+    "01-Projects/attachments/Cisco Ethical Hacker-img-202510091529.png",
+    "01-Projects/attachments/Google Cybersecurity Professional Certificate-1765389589347.png",
+    "01-Projects/attachments/Cisco Intro to Cybersecurity-1765389092572.png",
+    "01-Projects/attachments",
+    "CyberSec/attachments/_f5e44e3be33c4b99bb959a3f34e21b5e_Nano-File.png",
+    "CyberSec/attachments/_d37d55d80f744d2a8b9696972d3dc967_VM-Shared-Folder.png",
+    "02-Areas/Android/attachments",
+    "Writeups/THM/attachments",
+    "02-Areas/attachments",
+    "CTFs & Boxes/attachements",
+    "CTFs & Boxes",
+    "CyberSec/Cryptography/attachments",
+    "99 - Meta/copilot-custom-prompts",
+    "99 - Meta"
+  ]
+}

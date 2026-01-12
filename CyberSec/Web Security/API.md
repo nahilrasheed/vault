@@ -1,0 +1,10 @@
+****SOAP****
+Simple Object Access Protocol (SOAP) project files: SOAP is an API standard that relies on XML and related schemas. XML-based specifications are governed by XML Schema Definition (XSD) documents. Having a good reference of what a specific API supports can be very beneficial for a penetration tester and will accelerate the testing. The SOAP specification can be accessed at [_https://www.w3.org/TR/soap_](https://www.w3.org/TR/soap).
+****Swagger****
+Swagger (OpenAPI) documentation is a modern framework of API documentation and development that is now the basis of the OpenAPI Specification (OAS). These documents are used in representational state transfer (REST) APIs. REST is a software architectural style designed to guide development of the architecture for web services (including APIs). REST, or “RESTful,” APIs are the most common types of APIs used today. Swagger documents can be extremely beneficial when testing APIs. Additional information about Swagger can be obtained at [_https://swagger.io_](https://swagger.io/). The OAS is available at [_https://github.com/OAI/OpenAPI-Specification_](https://github.com/OAI/OpenAPI-Specification).
+****WSDL****
+Web Services Description Language (WSDL) is an XML-based language that is used to document the functionality of a web service. The WSDL specification can be accessed at [_https://www.w3.org/TR/wsdl20-primer_](https://www.w3.org/TR/wsdl20-primer).
+****GraphQL****
+GraphQL is a query language for APIs. It is also a server-side runtime for executing queries using a type system you define for your data. Additional technical information about GraphQL can be accessed at [_https://graphql.org/learn_](https://graphql.org/learn).
+****WADL****
+Web Application Description Language (WADL) is an XML-based language for describing web applications. The WADL specification can be obtained from [_https://www.w3.org/Submission/wadl_](https://www.w3.org/Submission/wadl).

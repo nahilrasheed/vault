@@ -1,0 +1,55 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "custom",
+  "fontWeight": 500,
+  "maxResults": 5,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": true,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Regex.md",
+      "timestamp": 1768239555910
+    },
+    {
+      "filepath": "CyberSec/Vulns & Attacks/index.md",
+      "timestamp": 1768238448735
+    },
+    {
+      "filepath": "CyberSec/Vulns & Attacks/SQLi.md",
+      "timestamp": 1768238446095
+    },
+    {
+      "filepath": "Posts/2024-07-17-The-Ultimate-Jekyll-Blogging-Guide.md",
+      "timestamp": 1768238383064
+    },
+    {
+      "filepath": "CyberSec/Cryptography/Cryptography.md",
+      "timestamp": 1768238360327
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true,
+  "fontColor": "#323232"
+}

@@ -1,0 +1,4 @@
+## MD5
+Message Digest 5 (MD5) is a cryptographic hash function that takes any input and produces a 128-bit hexadecimal number. The output of an MD5 hash function is called a digest. MD5 digests are often used to verify the integrity of files or data; however, MD5 is no longer considered secure and should not be used for sensitive applications.
+## SHA-256
+Secure Hash Algorithm 256 bits (SHA-256) is a cryptographic hash function that takes any input and produces a 256-bit hexadecimal number. SHA-256 is often used to verify the integrity of files or data and to create digital signatures. SHA-256 is considered very secure and is widely used in applications such as Bitcoin and blockchain technology.

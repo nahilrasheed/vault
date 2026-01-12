@@ -1,0 +1,27 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments",
+  "userIgnoreFilters": [
+    "cheat-sheets CL/"
+  ],
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "livePreview": true,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": false
+}

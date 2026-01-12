@@ -1,0 +1,3 @@
+- **_JavaScript Object Notation (JSON)_**: JSON is a lightweight format for storing and transporting data that is easy to understand. 
+- It is the most common data structure in RESTful APIs and many other implementations. 
+- You can interactively learn JSON at [_https://www.w3schools.com/whatis/whatis_json.asp_](https://www.w3schools.com/whatis/whatis_json.asp).
