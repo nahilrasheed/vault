@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eabff6954f8e2695",
+        "id": "bead87b1934a21ab",
         "type": "tabs",
         "children": [
           {
-            "id": "7f678a8c67ae9508",
+            "id": "0bded92a03d054e2",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -86,16 +86,6 @@
             }
           },
           {
-            "id": "1d3366bd31c2451c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "3b79d50a0507e72f",
             "type": "leaf",
             "state": {
@@ -104,9 +94,19 @@
               "icon": "unlink",
               "title": "Broken links"
             }
+          },
+          {
+            "id": "1d3366bd31c2451c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -119,7 +119,7 @@
       {
         "id": "fd47723be76f2cc6",
         "type": "tabs",
-        "dimension": 66.88931297709924,
+        "dimension": 66.88867745004757,
         "children": [
           {
             "id": "e62af45faa180c2c",
@@ -185,7 +185,7 @@
       {
         "id": "eda891906da0a84e",
         "type": "tabs",
-        "dimension": 33.11068702290076,
+        "dimension": 33.111322549952426,
         "children": [
           {
             "id": "65dd4f88c5820cfc",
@@ -200,20 +200,30 @@
             }
           },
           {
+            "id": "fea90a17d9af2afa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
             "id": "06ce55c1f1da4b2d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -234,19 +244,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "fea90a17d9af2afa",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -266,46 +266,45 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "9019d896a3c9eac8",
+  "active": "1d3366bd31c2451c",
   "lastOpenFiles": [
-    "CyberSec/Vulns & Attacks/index.md",
-    "CyberSec/Vulns & Attacks/SQLi.md",
-    "Posts/2024-07-17-The-Ultimate-Jekyll-Blogging-Guide.md",
-    "CyberSec/Cryptography/Cryptography.md",
-    "CyberSec/System Security/OS basics.md",
+    "Vulns & Attacks/index.md",
+    "Cybersecurity.md",
+    "Posts/The-Ultimate-Jekyll-Blogging-Guide.md",
+    "attachments/b32e73c419d9ae5ea743ab96185107203b4481d2.png",
+    "attachments/Active Directory-1763187837922.png",
+    "attachments/Active Directory-img-202512081118 1.png",
+    "attachments/Active Directory-img-202512081118.png",
+    "hi/hello/Broo/haha.md",
+    "System Security/VM & Container Security.md",
+    "attachments/VM&ContainerSecurity-img-202510141000.png",
+    "Networking/index.md",
+    "index 1.md",
+    "Vulns & Attacks/SQLi.md",
+    "Cryptography/Cryptography.md",
+    "System Security/OS basics.md",
     "SQL.md",
-    "CyberSec/index.md",
-    "CyberSec/Offensive Security/OSINT.md",
-    "CyberSec/Resources.md",
-    "CyberSec/Offensive Security/Red Team.md",
+    "Offensive Security/OSINT.md",
+    "Resources.md",
+    "Offensive Security/Red Team.md",
     "template.md",
     "Python.md",
     "Programming Languages.md",
     "git.md",
-    "CyberSec/GRC/CISSP Domains.md",
-    "CyberSec/GRC/CIA Triad.md",
-    "CyberSec/Tools/Browser Exploitation Framework (BeEF).md",
+    "GRC/CISSP Domains.md",
+    "GRC/CIA Triad.md",
+    "Tools/Browser Exploitation Framework (BeEF).md",
     "Writeups/THM/THM_W1seGuy.md",
-    "CyberSec/Defence and Response/Log Analysis.md",
-    "CyberSec/Vulns & Attacks/XXE.md",
-    "CyberSec/Web Security/CSP - Content Security Policy.md",
-    "CyberSec/Offensive Security/Post Exploitation Techniques.md",
-    "Writeups/Dev.md",
-    "CyberSec/System Security/Detection of cracking.md",
-    "Writeups/Butler.md",
-    "CyberSec/Tools/Veil.md",
+    "Defence and Response/Log Analysis.md",
+    "Vulns & Attacks/XXE.md",
+    "Web Security/CSP - Content Security Policy.md",
     "99-Meta/Projects.base",
     "Writeups/THM/attachments/THM AOC25 Sidequest2-1765883626473.png",
     "Writeups/THM/attachments/THM AOC25 Sidequest1-1765654805659.png",
-    "CyberSec/attachments/RITA-1766600448420.png",
-    "CyberSec/attachments/66c44fd9733427ea1181ad58-1761301302504.png",
-    "CyberSec/attachments/66c44fd9733427ea1181ad58-1761301233135.png",
-    "01-Projects/attachments/Cisco Ethical Hacker-img-202510091529.png",
-    "01-Projects/attachments/Google Cybersecurity Professional Certificate-1765389589347.png",
-    "01-Projects/attachments/Cisco Intro to Cybersecurity-1765389092572.png",
+    "attachments/RITA-1766600448420.png",
+    "attachments/66c44fd9733427ea1181ad58-1761301302504.png",
+    "attachments/66c44fd9733427ea1181ad58-1761301233135.png",
     "01-Projects/attachments",
-    "CyberSec/attachments/_f5e44e3be33c4b99bb959a3f34e21b5e_Nano-File.png",
-    "CyberSec/attachments/_d37d55d80f744d2a8b9696972d3dc967_VM-Shared-Folder.png",
     "02-Areas/Android/attachments",
     "Writeups/THM/attachments",
     "02-Areas/attachments",

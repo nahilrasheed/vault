@@ -27,7 +27,7 @@ These virtual systems have been susceptible to many vulnerabilities, including t
 
 ## Vulnerabilities Related to Containerized Workloads
 Computing has evolved from traditional physical (bare-metal) servers to VMs, containers, and serverless architectures.
-![[VM & Container Security-img-202510141000.png]]
+![[VM&ContainerSecurity-img-202510141000.png]]
 
 Vulnerabilities in applications and in open-source software running in containers such as Docker, Rocket, and containerd are often overlooked by developers and IT staff. Attackers may take advantage of these vulnerabilities to compromise applications and data. A variety of security layers apply to containerized workloads:
 - The container image

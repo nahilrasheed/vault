@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Jekyll Blogging Guide
-date: 2024-07-17
+publishDate: 2024-07-17
 tags:
   - website
   - html

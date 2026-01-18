@@ -3,6 +3,7 @@
 > [!IMPORTANT]
 > The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
 ### Key terms and concepts
+>A **hacker** is any person who uses computers to gain access to computer systems, networks, or data.
 - **Compliance** is the process of adhering to internal standards and external regulations and enables organizations to avoid fines and security breaches.
 - **Security frameworks** are guidelines used for building plans to help mitigate risks and threats to data and privacy. ^696cbb
 - **Security controls** are safeguards designed to reduce specific security risks. They are used with security frameworks to establish a strong security posture.
@@ -21,17 +22,6 @@
 ## [[Security Risks]]
 ## [[Security Frameworks]]
 ## [[Threats]]
-## [[CyberSec/Vulns & Attacks/index]]
+## [[Vulns & Attacks/index]]
 ## [[CISSP Domains]]
 
-
-## Ethics in cybersecurity
-Security ethics are guidelines for making appropriate decisions as a security professional.
-## Cybersecurity tools
-- [[SIEM]] Tools
-- Network Protocol Analyzer / Packet sniffer: a tool designed to capture and analyze data traffic within a network. Common network protocol analyzers include tcpdump and Wireshark.
-- [[SQL]] stands for Structured Query Language. SQL is a programming language used to create, interact with, and request information from a database.
-- An **intrusion detection system** (IDS) is an application that monitors system activity and alerts on possible intrusions.
-
----
-- **Encryption** is the process of converting data from a readable format to a cryptographically encoded format. **Cryptographic encoding** means converting plaintext into secure ciphertext. **Plaintext** is unencrypted information and **secure ciphertext** is the result of encryption.
